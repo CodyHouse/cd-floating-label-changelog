@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Floating Label - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Floating Label component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/floating-label)
+- [Info Page](https://codyhouse.co/ds/components/info/floating-label)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
